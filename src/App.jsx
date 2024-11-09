@@ -1,5 +1,5 @@
 import './App.css'
-import LogIn from './form/form'
+import LogIn from './form/Form'
 
 function App() {
 
